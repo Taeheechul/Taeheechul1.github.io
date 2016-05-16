@@ -1,10 +1,13 @@
 
 .table-bordered{
-     background-color:#fff;
+     background-color:#80A7F0;
 }
 .warning{
     color:red;
 }
 .success{
     color:#0D2828;
+}
+body{
+    background-color:#F08080; 
 }
