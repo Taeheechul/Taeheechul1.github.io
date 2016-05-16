@@ -2,5 +2,20 @@ img{
     width :70%;
     height:80%;
     border-bottom-style:groove;
-    border-bottom-width:8px;
+    border-bottom-width:20px;
+    border-radius: 2000px;
+    
+}
+body {
+    background-color:#DDA0A0;
+    
+}
+.text-wrap{
+    color:blue;
+    font-size:70px;
+    font-family:arial;
+}
+
+.text-right{
+    color:red;
 }
